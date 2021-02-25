@@ -1,4 +1,3 @@
-// CS315 Program 2: Trees
 // Original author: Morgan McKinney 2/2020
 
 #define NULL 0
