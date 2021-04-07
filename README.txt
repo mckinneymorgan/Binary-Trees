@@ -29,6 +29,7 @@ Can be read using the 'cat' command.
 
 Makefile:
 
+Initial code provided by Dr. Finkel, with minor modifications.
 Present for easy user compilation of trees.cpp. Input varies by desired
 output:
 "make run" to compile and run trees.cpp with default inputs; installs randGen.pl
